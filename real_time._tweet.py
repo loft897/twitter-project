@@ -23,4 +23,4 @@ myStreamListener = MyStreamListener()
 myStream = tweepy.Stream(auth = api.auth, listener=myStreamListener)
 
 myStream.filter(track=['keyword']) # replace 'keyword' with the keyword you want to track
-
+ 
