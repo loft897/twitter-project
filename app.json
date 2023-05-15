@@ -1,0 +1,8 @@
+{
+  "name": "twitter-project",
+  "description": "Final Project Jedha - Twitter social engine",
+  "keywords": ["Twitter", "social engine"],
+  "scripts": {
+    "start": "python your_script.py"
+  }
+}
